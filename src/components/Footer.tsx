@@ -37,7 +37,7 @@ export default function Footer() {
               <div className="bg-gradient-to-br from-[#0B5ED7] to-[#6EC1FF] w-10 h-10 rounded-lg flex items-center justify-center">
                 <Home className="w-6 h-6 text-white" />
               </div>
-              <span className="text-xl font-bold text-gray-900">Himalayan Property Care</span>
+              <span className="text-xl font-bold text-gray-900">PrimeNest Property Management</span>
             </div>
             <p className="text-gray-600 leading-relaxed mb-6">
               Professional property management services across Uttarakhand. Trusted by NRI and local property owners.
@@ -118,14 +118,14 @@ export default function Footer() {
               <Mail className="w-5 h-5 text-[#0B5ED7] flex-shrink-0 mt-1" />
               <div>
                 <p className="font-semibold text-gray-900">Email</p>
-                <p className="text-gray-600">info@himalayanproperty.com</p>
+                <p className="text-gray-600">info@primenestproperty.com</p>
               </div>
             </div>
           </div>
 
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 pt-8 border-t border-gray-200">
             <p className="text-gray-600 text-sm">
-              &copy; 2024 Himalayan Property Care. All rights reserved.
+              &copy; 2024 PrimeNest Property Management. All rights reserved.
             </p>
             <a
               href="https://wa.me/91XXXXXXXXXX"
@@ -141,3 +141,4 @@ export default function Footer() {
     </footer>
   );
 }
+
